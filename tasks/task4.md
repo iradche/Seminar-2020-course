@@ -3,4 +3,4 @@
 1. Закачайте набор данных на платформу [Zenodo](https://zenodo.org/).
 2. Присвойте соответствующие метаданные вашему набору данных (будьте предельно внимательны!). *Если вы не уверены в том, что заполнили метаданные корректно, то лучше связаться с преподавателем для проверки.* 
 3. Сгенерируйте идентификатор DOI. 
-4. Опубликуйте DOI в [сводной таблице](https://docs.google.com/spreadsheets/d/1ky2-lWnzsWVZwq_rdsj54xKQ1XPaxPhbYdElKMbcSmo/edit#gid=1954532834).
+4. Опубликуйте DOI в [сводной таблице](https://docs.google.com/spreadsheets/d/1H4YEeK2zf9fnhyWkBUDyj3TUE7GZnNTYlE8oCndxrmI/edit#gid=1954532834).
