@@ -5,8 +5,8 @@
 
 ### Что нужно сделать по заданию 3
 
-1. Необходимо в файле **data-essay.md** разместить дата-эссе по [предложенному шаблону](https://github.com/iradche/Data-Management-course/blob/master/tasks/task3.md#%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%B4%D0%BB%D1%8F-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D1%82%D0%B0-%D1%8D%D1%81%D1%81%D0%B5).
-2. Дать ссылку в нашу опорную гуглотаблицу: https://docs.google.com/spreadsheets/d/1NvU-ED2WTrvb-M41DZcqqQdUtHKSmfR09Ilq2UU8PRY/edit#gid=0.        
+1. Необходимо в файле **data-essay.md** разместить дата-эссе по [предложенному шаблону](https://github.com/iradche/Seminar-2020-course/blob/master/tasks/task3.md#%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD-%D0%B4%D0%BB%D1%8F-%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%B0%D1%82%D0%B0-%D1%8D%D1%81%D1%81%D0%B5).
+2. Дать ссылку в нашу опорную гуглотаблицу: https://docs.google.com/spreadsheets/d/1H4YEeK2zf9fnhyWkBUDyj3TUE7GZnNTYlE8oCndxrmI/edit#gid=1954532834.        
  
 
 ## Шаблон для формирования дата-эссе
