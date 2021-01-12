@@ -16,9 +16,6 @@
 И внести тему в нашу гугл-таблицу: https://docs.google.com/spreadsheets/d/1H4YEeK2zf9fnhyWkBUDyj3TUE7GZnNTYlE8oCndxrmI/edit#gid=1954532834      
 
 
-## Вебинар
-Видео: https://youtu.be/Y-a2WARcom0?list=PLfSN69RCPDM9pqByd9AXpfNaKTqkk260y
-
 ## Задание 
 
 Подготовить и сдать [задание 1](https://github.com/iradche/Seminar-2020-course/blob/master/tasks/task1.md).
