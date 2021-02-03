@@ -42,12 +42,12 @@ Office Open XML: https://en.wikipedia.org/wiki/Office_Open_XML
 ___________
 
 
-#### Практическая работа с OpenRefine
+#### Практическая работа с OpenRefine (для тех, кто не проходил Адаптационный курс)
 
 1. Скачайте (по ссылке: https://openrefine.org/download.html) и установите OpenRefine на свой компьютер.
-2. Скачайте инструкцию: https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/OpenRefine_manual.pdf.        
-3. Скачайте тестовый набор данных: https://github.com/iradche/Data-Intro-2020-course/blob/master/lectures/universityData.csv.         
+2. Скачайте инструкцию: https://github.com/iradche/Seminar-2020-course/blob/master/OpenRefine_manual.pdf.        
+3. Скачайте тестовый набор данных: https://github.com/iradche/Seminar-2020-course/blob/master/datasets/universities.csv.         
 4. Выполните действия с набором данных, описанные в инструкции.    
 5. Сделайте скриншот экрана с последними выполненными действиями.    
 6. Закачайте скриншот в каталог OpenRefine вашего репозитория на GitHub.    
-7. Разместите ссылку на каталог со скриншотом в комментарии к соответствующей ячейке в опорной гуглотаблице: https://docs.google.com/spreadsheets/d/1lSzcjG7NXUcNRU4kOa7RdyUW7H62m8gHe_ZcJwJft34/edit#gid=1954532834
+
